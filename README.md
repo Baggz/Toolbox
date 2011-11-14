@@ -41,17 +41,13 @@ Releases are available for download from GitHub.
 * [getRandomNum](#getRandomNum)
 * [getRandomNums](#getRandomNums)
 * [getUid](#getUid)
-
 * [getAvg](#getAvg)
 * [getMax](#getMax)
 * [getMin](#getMin)
 * [getSum](#getSum)
-
 * [detectMimeType](#detectMimeType)
-
 * [removeDuplicates](#removeDuplicates)
 * [shuffle](#shuffle)
-
 * [rgbToHex](#rgbToHex)
 * [hexToRgb](#hexToRgb)
 
