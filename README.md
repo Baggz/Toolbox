@@ -31,8 +31,8 @@ Releases are available for download from GitHub.
 
 | **Version** | **Description** | **Size** | **Action** |
 |:------------|:----------------|:---------|:-----------|
-| `toolbox.js` | *uncompressed, with comments* | 18.49KB (5.21KB gzipped) | [Download](https://raw.github.com/Baggz/Toolbox/master/src/toolbox.js) |
-| `toolbox.min.js` | *compressed, without comments* | 12.96KB (4.2KB gzipped) | [Download](https://raw.github.com/Baggz/Toolbox/master/dist/toolbox.min.js) |
+| `toolbox.js` | *uncompressed, with comments* | 18.49 KB (5.21 KB gzipped) | [Download](https://raw.github.com/Baggz/Toolbox/master/src/toolbox.js) |
+| `toolbox.min.js` | *compressed, without comments* | 12.95 KB (4.19 KB gzipped) | [Download](https://raw.github.com/Baggz/Toolbox/master/dist/toolbox.min.js) |
 
 # Documentation
 
