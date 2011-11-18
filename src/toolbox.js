@@ -5,7 +5,7 @@
    *
    * @constructor
    */
-  var Toolbox = {};
+  var toolbox = {};
 
   /**
    * Methods
@@ -765,7 +765,7 @@
    */
   var generateMethod = function(method, fn) {
 
-    Toolbox[method] = function() {
+    toolbox[method] = function() {
 
       var callback = getCallback(arguments),
           result = fn.apply(methods, arguments);
@@ -790,13 +790,13 @@
 
   // Export
   if (typeof module !== 'undefined' && module.exports) {
-    module.exports = Toolbox;
+    module.exports = toolbox;
   } else if ( typeof define !== 'undefined' ) {
     define(function() {
-      return Toolbox;
+      return toolbox;
     });
   } else {
-    this.Toolbox = Toolbox;
+    this.toolbox = toolbox;
   }
 
 }());
