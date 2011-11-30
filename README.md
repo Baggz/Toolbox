@@ -1,5 +1,7 @@
 # JavaScript Toolbox
 
+[![Build Status](https://secure.travis-ci.org/Baggz/Toolbox.png)](http://travis-ci.org/Baggz/Toolbox)
+
 A collection of useful JavaScript utilities.
 
 ### Features
